@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+/home/iuri/vertigo/java/ws-javafx/.metadata/.plugins/org.eclipse.jdt.core
+1064955938.index
+3070904283.index
+940848187.index
+2703058305.index
+2792399256.index
+3592049943.index
+1216266420.index
